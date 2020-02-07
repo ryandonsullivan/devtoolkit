@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Southern Web Toolkit\n"
+"POT-Creation-Date: 2020-01-12 22:23-0500\n"
+"PO-Revision-Date: 2020-01-12 22:22-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: swg-toolkit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-swg-admin-settings.php:607
+msgid "Choose File"
+msgstr ""
+
+#: admin/class-swg-admin-settings.php:628
+msgid "Choose Image"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:57
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:65
+msgid "Other Settings"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:75
+msgid "Text Input"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:76
+msgid "Text input description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:87
+msgid "Number Input"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:88
+msgid "Number field with validation callback `intval`"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:100
+msgid "Password Input"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:101
+msgid "Password field description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:111
+msgid "Textarea Input"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:112
+msgid "Textarea description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:141
+msgid "Checkbox"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:142
+msgid "Checkbox Label"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:152
+msgid "Radio"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:153
+msgid "Radio Button"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:167
+msgid "Multile checkbox"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:168
+msgid "Multile checkbox description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:182
+msgid "A Dropdown"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:183
+msgid "A Dropdown description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:197
+msgid "Image"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:198
+msgid "Image description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:211
+msgid "File"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:212
+msgid "File description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:225
+msgid "Color"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:226
+msgid "Color description"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:227
+msgid "#5F4B8B"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:237
+msgid "WP_Editor"
+msgstr ""
+
+#: admin/swg-admin-settings-init.php:238
+msgid "WP_Editor description"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Southern Web Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.southernweb.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Southern Web"
+msgstr ""

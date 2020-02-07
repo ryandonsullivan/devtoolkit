@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.swg-toolkit-post {
+    margin-bottom: 24px;
+}
+
+.swg-toolkit-post:last-child {
+  margin-bottom: 0;
+}
+
+.swg-toolkit-post h3 {
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.swg-toolkit-post span {
+    display: inline-block;
+    padding: 0 5px 0 0;
+}
